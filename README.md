@@ -1,1 +1,2 @@
-# Starter for react-native mobile apps
+# starter_app
+Starter for react-native mobile apps
